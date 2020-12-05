@@ -4,5 +4,4 @@ public class TestArray {
         int [] score={100,200,400,500,700,900};
         System.out.println(score.length);
     }
-    
 }
